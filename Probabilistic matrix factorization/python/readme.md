@@ -13,7 +13,6 @@ batch_size: Number of training samples used in each batches (for SGD optimizatio
 Methods:
 
 fit(train_tuple, val_tuple)
-
 Fit the model with train_tuple and evaluate RMSE on both train and validation data.
 Input tuple format: (userID, movieID, rating) # 0-index ID is recommended
 Output: U and V matrices, RMSE Error on Train and Validation after each epoch.
