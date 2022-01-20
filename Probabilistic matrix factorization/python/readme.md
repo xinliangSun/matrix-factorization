@@ -1,5 +1,4 @@
-README.MD
-Probabilistic matrix factorization (PMF) in Python
+## Probabilistic matrix factorization (PMF) in Python
 
 Parameters:
 num_feat: Number of latent features,
