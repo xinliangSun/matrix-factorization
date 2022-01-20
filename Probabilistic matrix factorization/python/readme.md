@@ -29,3 +29,7 @@ return {"num_feat": num_feat, "epsilon":epsilon, "_lambda":_lambda, "momentum":m
 Reference:
 1 Mnih, A., & Salakhutdinov, R. (2007). Probabilistic matrix factorization. In Advances in neural information processing systems (pp. 1257-1264).
 2 Salakhutdinov, R. Probabilistic matrix factorization in Matlab. http://www.cs.toronto.edu/~rsalakhu/code_BPMF/pmf.m.
+
+
+Source:
+https://github.com/adamzjw/Probabilistic-matrix-factorization-in-Python
